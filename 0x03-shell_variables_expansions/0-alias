@@ -1,2 +1,2 @@
 #!/bin/bash
-alias youssef="ls -l"
+$alias=youssef="alias"
