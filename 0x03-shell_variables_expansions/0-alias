@@ -1,2 +1,2 @@
 #!/bin/bash
-$alias=youssef="alias"
+$alias=11="ls -l"
